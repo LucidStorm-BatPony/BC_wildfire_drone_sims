@@ -7,7 +7,7 @@ water pickup, night and smoke capable) and calibrated against BC Wildfire Servic
 outcomes.
 
 **Author:** Ben Watson ("Lucid") — Independent Researcher, Salmon Arm, BC
-**Contact:** ben.watson.research@pm.me
+**Contact:** ben.watson.research@proton.me
 **Date:** August 2026
 
 This is unaffiliated work: no vendor, agency, or investor relationship. The code
